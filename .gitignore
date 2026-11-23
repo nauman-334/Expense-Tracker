@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project-specific ---
+venv/
+expense_tracker.db
+.env
+.DS_Store
+.claude/plans/
